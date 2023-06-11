@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\y\Source\Repos\0930\0930\main.cpp(42,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PutImage.cpp
+  PutImageBlend.cpp
+  PutSprite.cpp
+  코드를 생성하고 있습니다...
+  0930.vcxproj -> C:\Users\y\Source\Repos\0930\x64\Debug\0930.exe

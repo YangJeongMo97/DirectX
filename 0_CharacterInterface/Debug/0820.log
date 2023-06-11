@@ -1,0 +1,8 @@
+﻿  displayCharStats.cpp
+  main.cpp
+C:\Users\y\Source\Repos\0820\main.cpp(5,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  userInterface.cpp
+C:\Users\y\Source\Repos\0820\userInterface.cpp(17,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  userLevelUp.cpp
+  코드를 생성하고 있습니다...
+  0820.vcxproj -> C:\Users\y\Source\Repos\0820\Debug\0820.exe

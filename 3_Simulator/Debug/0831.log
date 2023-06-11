@@ -1,0 +1,25 @@
+﻿  CBasicSet.cpp
+  CElf.cpp
+C:\Users\y\Source\Repos\0831\CElf.cpp(7,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CHuman.cpp
+C:\Users\y\Source\Repos\0831\CHuman.cpp(7,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  COrc.cpp
+C:\Users\y\Source\Repos\0831\COrc.cpp(7,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DisplayStats.cpp
+C:\Users\y\Source\Repos\0831\DisplayStats.cpp(15,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\y\Source\Repos\0831\DisplayStats.cpp(29,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\y\Source\Repos\0831\DisplayStats.cpp(43,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Overloading.cpp
+  SelectMenu.cpp
+C:\Users\y\Source\Repos\0831\SelectMenu.cpp(33,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\y\Source\Repos\0831\SelectMenu.cpp(54,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\y\Source\Repos\0831\SelectMenu.cpp(83,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\y\Source\Repos\0831\SelectMenu.cpp(103,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\y\Source\Repos\0831\SelectMenu.cpp(131,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\y\Source\Repos\0831\SelectMenu.cpp(151,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  UserInterface.cpp
+C:\Users\y\Source\Repos\0831\UserInterface.cpp(122,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ViewStats.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  0831.vcxproj -> C:\Users\y\Source\Repos\0831\Debug\0831.exe

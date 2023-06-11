@@ -1,0 +1,14 @@
+﻿  GraphicEngine.cpp
+C:\Users\y\Source\Repos\1005\1005\GraphicEngine.cpp(17,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\y\Source\Repos\1005\1005\GraphicEngine.cpp(130,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  __KeyProc.cpp
+  ___aDestroyAll.cpp
+  ___aInit.cpp
+  ___aMainLoop.cpp
+C:\Users\y\Source\Repos\1005\1005\___aMainLoop.cpp(95,32): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\y\Source\Repos\1005\1005\___aMainLoop.cpp(100,19): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\y\Source\Repos\1005\1005\___aMainLoop.cpp(152,32): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\y\Source\Repos\1005\1005\___aMainLoop.cpp(157,19): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  1005.vcxproj -> C:\Users\y\Source\Repos\1005\Debug\1005.exe

@@ -1,0 +1,2 @@
+C:\Users\y\Source\Repos\GameProject\x64\Debug\GameProject.exe
+C:\Users\y\Source\Repos\GameProject\x64\Debug\GameProject.pdb

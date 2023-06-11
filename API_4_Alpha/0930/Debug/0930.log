@@ -1,0 +1,7 @@
+﻿  PutImage.cpp
+  PutImageBlend.cpp
+  PutSprite.cpp
+  main.cpp
+C:\Users\y\Source\Repos\0930\0930\main.cpp(1,36): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+  코드를 생성하고 있습니다...
+  0930.vcxproj -> C:\Users\y\Source\Repos\0930\Debug\0930.exe

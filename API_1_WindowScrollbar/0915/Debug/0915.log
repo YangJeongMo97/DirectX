@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\y\Source\Repos\0915\0915\main.cpp(129,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\y\Source\Repos\0915\0915\main.cpp(148,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\y\Source\Repos\0915\0915\main.cpp(175,35): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  0915.vcxproj -> C:\Users\y\Source\Repos\0915\Debug\0915.exe

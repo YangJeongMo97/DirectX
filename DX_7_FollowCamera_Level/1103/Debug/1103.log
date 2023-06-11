@@ -1,0 +1,3 @@
+﻿  main.cpp
+  should not include d3dtypes.h when compiling for DX8 or newer interfaces
+  1103.vcxproj -> C:\Users\y\Source\Repos\1103\Debug\1103.exe
